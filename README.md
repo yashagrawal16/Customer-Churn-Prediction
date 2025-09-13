@@ -13,7 +13,7 @@ This project predicts whether a telecom customer will **churn** (leave the servi
 ## 📂 Project Structure
 - `Customer_churn_completed.ipynb` → Jupyter Notebook with code
 - `requirements.txt` → Dependencies
-- `your_dataset.csv` → Dataset (if public)
+- `your_dataset.csv` → Dataset 
 - `README.md` → Project documentation
 
 ## 🚀 Results
